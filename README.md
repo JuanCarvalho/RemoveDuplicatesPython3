@@ -1,8 +1,6 @@
 # RemoveDuplicatesPython3
 Remove arquivos com conteudos identicos (também serve para imagens) 
-
 Removes files with identical contents (also for images)
-
 ### code adapted by juancarvalho for use with Python 3.5.2 (for personal use)
 ### link original http://www.davespace.co.uk/python/remove-duplicates.html (python 2.7)
 
